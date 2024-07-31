@@ -15,3 +15,6 @@ pip install scikit-learn<br>
 pip install tensorflow<br>
 pip install openpyxl
 
+► Contacts:
+Telegram: @morgan_sql
+Telegram channel:   https://t.me/py_developers
