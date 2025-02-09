@@ -17,4 +17,4 @@ pip install openpyxl
 
 ► Contacts:<br>
 Telegram: @morgan_sql<br>
-Telegram channel:  https://t.me/pydevtop
+
